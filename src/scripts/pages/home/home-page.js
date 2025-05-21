@@ -1,6 +1,7 @@
 export default class HomePage {
   async render() {
     return `
+<<<<<<< HEAD
       <section class="homepage-container">
         <div class="hero">
           <img src="images/nature.jpg" alt="nature" class="hero-image" />
@@ -80,6 +81,11 @@ export default class HomePage {
       </section>
 
       
+=======
+      <section class="container">
+        <h1>Home Page</h1>
+      </section>
+>>>>>>> ccc1725984285cee101518fcaa734012f4d3d30c
     `;
   }
 

@@ -1,4 +1,5 @@
 import HomePage from '../pages/home/home-page';
+<<<<<<< HEAD
 import KategoriPage from '../pages/kategori/kategori-page';
 import ItenaryPage from '../pages/itenary/itenary-page';
 import AlamPage from '../pages/wisata-alam/alam-page';
@@ -16,6 +17,13 @@ const routes = {
   '/belanja': new BelanjaPage(),
   '/sejarah': new SejarahPage(),
   '/itenary': new ItenaryPage(),
+=======
+import AboutPage from '../pages/about/about-page';
+
+const routes = {
+  '/': new HomePage(),
+  '/about': new AboutPage(),
+>>>>>>> ccc1725984285cee101518fcaa734012f4d3d30c
 };
 
 export default routes;
