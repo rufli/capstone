@@ -6,11 +6,7 @@
 }
 
 body {
-<<<<<<< HEAD
-  
-=======
->>>>>>> ccc1725984285cee101518fcaa734012f4d3d30c
-  font-family: 'Arial', sans-serif;
+  font-family: 'Arial';
 }
 
 .container {
@@ -20,11 +16,9 @@ body {
 }
 
 header {
-<<<<<<< HEAD
+
   background-color: blue;
-=======
-  background-color: lightskyblue;
->>>>>>> ccc1725984285cee101518fcaa734012f4d3d30c
+
 }
 
 .main-header {
@@ -41,7 +35,7 @@ header {
   font-size: 1.125rem;
   font-weight: bold;
   text-decoration: none;
-<<<<<<< HEAD
+
   color: #ffff;
 }
 /*
@@ -49,11 +43,6 @@ header {
   width: 35px;
 }
 */
-=======
-  color: #333;
-}
-
->>>>>>> ccc1725984285cee101518fcaa734012f4d3d30c
 .navigation-drawer {
   min-height: 100vh;
   width: 200px;
@@ -103,11 +92,9 @@ header {
 
   display: block;
   
-<<<<<<< HEAD
+
   color: #ffff;
-=======
-  color: #333;
->>>>>>> ccc1725984285cee101518fcaa734012f4d3d30c
+
   text-decoration: none;
 }
 
@@ -149,7 +136,7 @@ header {
     display: none;
   }
 }
-<<<<<<< HEAD
+
 /* FOOTER */
 footer {
   margin-block-start: 50px;
@@ -351,5 +338,3 @@ footer {
   padding: 8px 16px;
   border-radius: 6px;
 }
-=======
->>>>>>> ccc1725984285cee101518fcaa734012f4d3d30c
